@@ -66,7 +66,7 @@ computational latency should be < 1000ms (lesser the better).
 
 + Novelty, practicality and efficiency of the solution – this is a subjective metric
 
-[ [official-document](PS-10 Develop a 2D Occupancy Grid Map of a Room using Overhead Cameras.pdf) ] | [[turtlebot3](https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/)], [[ros2-for-beginners](https://www.udemy.com/course/ros2-for-beginners/?couponCode=OF52424)], [[ros2-in-python](https://www.udemy.com/course/ros2-robotics-developer-course-using-ros2-in-python/?couponCode=OF52424)]
+[ [official-document](https://github.com/anandji28/anandjips10intel/blob/a845c34b9d80a38b5cb424d4232dfd7e8fbb9bf7/PS-10%20Develop%20a%202D%20Occupancy%20Grid%20Map%20of%20a%20Room%20using%20Overhead%20Cameras.pdf) ] | [[turtlebot3](https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/)], [[ros2-for-beginners](https://www.udemy.com/course/ros2-for-beginners/?couponCode=OF52424)], [[ros2-in-python](https://www.udemy.com/course/ros2-robotics-developer-course-using-ros2-in-python/?couponCode=OF52424)]
 
 <hr />
 
