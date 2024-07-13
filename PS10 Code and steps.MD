@@ -2,7 +2,7 @@
 
 The primary objective of this project is to develop a 2D occupancy grid map of a room using overhead cameras, similar to the map created by a ROS2-based SLAM algorithm typically used by autonomous mobile robots (AMRs).
 
-<img src="./img/cam.png" width=47%> <img src="./img/dsg.png" width=51%>
+
 
 Description:
 + In the initial phase, you will need to equip a room or area with four overhead RGB cameras
