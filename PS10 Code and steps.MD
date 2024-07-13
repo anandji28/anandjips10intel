@@ -1,7 +1,9 @@
 # Robotics : Develop a 2D Occupancy Grid Map of a Room using Overhead Cameras [INT 2]
 
 The primary objective of this project is to develop a 2D occupancy grid map of a room using overhead cameras, similar to the map created by a ROS2-based SLAM algorithm typically used by autonomous mobile robots (AMRs).
+<img src="https://github.com/anandji28/anandjips10intel/blob/3046d7402b72e774095db1ec98791639d22a0403/cam.png" width=100%>
 
+<img src="https://github.com/anandji28/anandjips10intel/blob/3046d7402b72e774095db1ec98791639d22a0403/dsg.png" width=100%>
 
 
 Description:
@@ -147,7 +149,7 @@ measurements as benchmarks.
 + A map generated with cartographer will 
 be provided for reference.
 
-<img src="./img/refmap.png" width=100%>
+<img src="https://github.com/anandji28/anandjips10intel/blob/3046d7402b72e774095db1ec98791639d22a0403/refmap.png" width=100%>
 
 #### How to evaluate the generated map?
 #### Using Rviz to find distance between key points
