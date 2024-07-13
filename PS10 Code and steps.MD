@@ -25,7 +25,7 @@ Motivation:
 + Better multi-robot path planning and coordination
 
 Project Scope
-+ Add the 4 RGB cameras in Gazebo simulation environment [[infraCam](./infraCam/)] in a 2x2 matrix (birds eye view) covering the environment 
++ Add the 4 RGB cameras in Gazebo simulation environment in a 2x2 matrix (birds eye view) covering the environment 
 with marginal overlap of FoVs at a height of ~ 8 meters.
 + Use 640x480 image resolution and acquire images from the simulated cameras
 + Explore techniques for multi-camera calibration to automatically calibrate and align FoVs or all overhead cameras
